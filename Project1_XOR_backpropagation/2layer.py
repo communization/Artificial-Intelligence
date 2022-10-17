@@ -3,15 +3,8 @@
 # 인공지능(딥러닝)개론 # Homework 1
 # 간단한 XOR Table을 학습하는 NN을 구성하는 문제입니다.
 # 
-#  1-Layer, 2-Layer model을 각각 구성하여 XOR 결과를 비교합니다.
-#  1-Layer, 2-Layer의 model을 feedforward network와 Backpropagation을 이용하여 학습시킵니다.
-#  주어진 양식을 활용해 주시며, scale, 차원의 순서, hyper parameter등은 결과가 잘 나오는 방향으로 Tuning하셔도 무방합니다.
-#  Layer의 Activation 함수인 Tanh는 54~57번째 줄의 함수를 사용하시면 됩니다.
-#  결과 재현을 위해 Weight, bias 값을 저장하여 함께 첨부해 주시기 바랍니다.
-#  각 모델에서 loss 그래프와 testing step을 첨부하여 간단하게 자유 양식 결과 보고서(2~3장 내외)로 작성해 주세요.
-# 
-# 
-#  양식에서 활용하는 라이브러리 외에 추가로 import 하여 사용하실 수 없습니다.
+#  1-Layer, 2-Layer model을 각각 구성하여 XOR 결과를 비교
+#  1-Layer, 2-Layer의 model을 feedforward network와 Backpropagation을 이용하여 학습
 
 
 
